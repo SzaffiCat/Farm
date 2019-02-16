@@ -25,4 +25,5 @@ hs_err_pid*
 git
 
 .idea
+.idea/workspace.xml
 
